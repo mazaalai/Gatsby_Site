@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{7704:function(e,t,l){l.r(t);var n=l(7294),a=l(5444),r=l(7647),o=l(4695);t.default=function(){return n.createElement(r.Z,null,n.createElement(o.Z,{title:"Home"}),n.createElement("h1",null,"Hello."),n.createElement("h2",null," I'm Taivan, student from Thomas More"),n.createElement("p",null,"Need to Contact? ",n.createElement(a.rU,{to:"/contact"},"Contact me.")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-39d555399ed3c3c0aaed.js.map

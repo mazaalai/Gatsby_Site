@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-js",
+    "path": "/blog/react",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"The React","date":"2021-11-12"},"html":"<p>In this post you'll learn React.</p>"}},"pageContext":{"slug":"react"}},
+    "staticQueryHashes": ["2703881467","3159585216"]}
