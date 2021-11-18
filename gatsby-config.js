@@ -11,7 +11,8 @@ module.exports = {
       description: 'Taivan Enkhbayar'
 
   }
-, 
+,
+  pathPrefix: "/Gatsby_Site",
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
